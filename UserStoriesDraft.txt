@@ -1,0 +1,12 @@
+Version 1.1
+1)	As a registered user, I want to view available water sources so that I can know about nearby water sources and their status.
+2)	As a registered user, I want to be able to submit a report on water availability so that I can inform others about available water sources.
+3)	As a worker, I want to report on water purity levels so that reports can give more precise information on the status of water availability.
+4)	As a manager, I want to view historical reports of water purity so that I can observe trends in the purity of water at various locations.
+5)	As a manager, I want to be able to be able to delete individual reports so that overall water reports can be more accurate and useful to users.
+6)	As an administrator, I want to be able to delete accounts so that the database of users can be kept clean.
+7)	As an administrator, I want to be able to ban a user from submitting reports so that the overall accuracy and integrity of reports can be upheld.
+8)	As an administrator, I want to be able to unlock an account that has been blocked for too many incorrect login attempts so that users can continue to use and provide information for the system.
+9)	As an administrator, I want to view the security log so that I can have the necessary information to perform maintenance on the system.
+10)	As a registered user, I want to be able to login through authentication of username and password so that others cannot misuse my account.
+
